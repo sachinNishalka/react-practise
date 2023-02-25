@@ -6,9 +6,9 @@
 .pnp.js
 
 #src
-/src/LoggedInUser.js
-/src/LoggedOutUser.js
-/src/LoggedStatus.js
+# /src/LoggedInUser.js
+# /src/LoggedOutUser.js
+# /src/LoggedStatus.js
 
 # testing
 /coverage
